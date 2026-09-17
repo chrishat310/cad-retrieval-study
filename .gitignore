@@ -1,0 +1,17 @@
+# Dataset -- never committed. See DATASET.md for how to obtain it.
+fusion360subset/
+
+# Regenerable caches: features_v0.npz, d2 variants, eval results
+cache/
+
+# Regenerable gold-set renders (rebuild: python gold_set.py build; python make_labeler.py)
+gold/sheets/
+gold/web/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# draw.io backup temp files
+.$*.bkp

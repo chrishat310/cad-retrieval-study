@@ -1,0 +1,31 @@
+# Gold-set labels - protocol registered 2026-08-07 (see gold_set.py docstring)
+# Labelled via web labeler; unsure -> n with [unsure] note.
+sheet	query	letter	label	note
+05	143471_262d78df_13	A	n	
+05	143471_262d78df_13	B	n	
+05	143471_262d78df_13	C	n	
+05	143471_262d78df_13	D	n	
+05	143471_262d78df_13	E	n	
+05	143471_262d78df_13	F	n	
+05	143471_262d78df_13	G	n	
+05	143471_262d78df_13	H	y	
+05	143471_262d78df_13	I	n	
+05	143471_262d78df_13	J	n	
+12	37160_2a95674a_23	A	y	
+12	37160_2a95674a_23	B	y	
+12	37160_2a95674a_23	C	n	
+12	37160_2a95674a_23	D	n	
+12	37160_2a95674a_23	E	y	
+12	37160_2a95674a_23	F	n	
+12	37160_2a95674a_23	G	y	
+12	37160_2a95674a_23	H	y	
+12	37160_2a95674a_23	I	y	
+27	41115_3ce6b43c_1	A	y	
+27	41115_3ce6b43c_1	B	n	
+27	41115_3ce6b43c_1	C	n	
+27	41115_3ce6b43c_1	D	y	
+27	41115_3ce6b43c_1	E	n	
+27	41115_3ce6b43c_1	F	n	
+27	41115_3ce6b43c_1	G	n	
+27	41115_3ce6b43c_1	H	y	
+27	41115_3ce6b43c_1	I	n	

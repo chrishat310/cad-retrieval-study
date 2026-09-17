@@ -1,0 +1,18 @@
+# conda env create -f environment.yml && conda activate cad-retrieval
+#
+# pythonocc-core is conda-forge only -- there is no reliable pip path for it,
+# which is why this repository ships an environment.yml and not a requirements.txt.
+#
+# These are the versions this study was run and verified on, not a minimum bound.
+name: cad-retrieval
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pythonocc-core=7.9.3
+  - occt=7.9.3
+  - trimesh=5.0.0
+  - numpy=2.4.6
+  - scipy=1.17.1
+  - matplotlib=3.11.1
+  - jupyterlab
